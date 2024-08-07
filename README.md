@@ -1,4 +1,4 @@
-100xdevs-Web-Development
+100xdevs-Web-Development.
 Welcome to the official repository for Harkirat Singh's Cohort 3!
 
 This centralized hub is dedicated to providing resources, solutions, and a collaborative environment for students in the cohort. Here, you'll find a comprehensive collection of materials related to the course curriculum.
